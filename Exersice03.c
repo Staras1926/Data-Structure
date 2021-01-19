@@ -1,5 +1,3 @@
-///icsd17093 koufalis-kanelis xristos
-///icsd17159 platsatouras konstantinos
 #include<stdio.h>
 #include<stdlib.h>
 #include <string.h>
